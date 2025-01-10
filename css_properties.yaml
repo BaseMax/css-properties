@@ -1,0 +1,1574 @@
+!!python/object/apply:collections.defaultdict
+args:
+- !!python/name:builtins.list ''
+dictitems:
+  '@':
+  - brief: Specifies the character encoding used in the style sheet
+    category: C
+    link: https://www.w3schools.com/cssref/atrule_charset.php
+    name: '@charset'
+  - brief: "Define styles for elements in container, depending on the container's\
+      \ \n    size or style"
+    category: C
+    link: https://www.w3schools.com/cssref/atrule_container.php
+    name: '@container'
+  - brief: Lets you define your own counter styles
+    category: C
+    link: https://www.w3schools.com/cssref/atrule_counter-style.php
+    name: '@counter-style'
+  - brief: Specifies a custom font to use to display text
+    category: F
+    link: https://www.w3schools.com/cssref/atrule_font-face.php
+    name: '@font-face'
+  - brief: Allows you to customize the default values of a font-palette
+    category: F
+    link: https://www.w3schools.com/cssref/atrule_font-palette-values.php
+    name: '@font-palette-values'
+  - brief: Allows you to import a style sheet into another style sheet
+    category: I
+    link: https://www.w3schools.com/cssref/atrule_import.php
+    name: '@import'
+  - brief: "Controls the steps in an animation by defining styles for points along\
+      \ \n    the animation sequence"
+    category: K
+    link: https://www.w3schools.com/cssref/atrule_keyframes.php
+    name: '@keyframes'
+  - brief: Controls how the CSS cascade layers evaluates the order of styles
+    category: L
+    link: https://www.w3schools.com/cssref/atrule_layer.php
+    name: '@layer'
+  - brief: Sets the style rules for different media types/devices/sizes
+    category: M
+    link: https://www.w3schools.com/cssref/atrule_media.php
+    name: '@media'
+  - brief: Defines an XML namespace to be used in the style sheet
+    category: N
+    link: https://www.w3schools.com/cssref/atrule_namespace.php
+    name: '@namespace'
+  - brief: Customizes the dimension, orientation, and margins of printed pages
+    category: P
+    link: https://www.w3schools.com/cssref/atrule_page.php
+    name: '@page'
+  - brief: Defines custom CSS properties directly in the stylesheet without having
+      to run any JavaScript
+    category: P
+    link: https://www.w3schools.com/cssref/atrule_property.php
+    name: '@property'
+  - brief: "Allows you to select elements in specific DOM subtrees and target \n \
+      \   elements precisely without writing overly-specific selectors"
+    category: S
+    link: https://www.w3schools.com/cssref/atrule_scope.php
+    name: '@scope'
+  - brief: "Defines an element's starting styles before the element gets its first\
+      \ \n    style update"
+    category: S
+    link: https://www.w3schools.com/cssref/atrule_starting-style.php
+    name: '@starting-style'
+  - brief: Used to test whether a browser supports a CSS feature
+    category: S
+    link: https://www.w3schools.com/cssref/atrule_supports.php
+    name: '@supports'
+  A:
+  - brief: Specifies an accent color for user-interface controls
+    category: A
+    link: https://www.w3schools.com/cssref/css4_pr_accent-color.php
+    name: accent-color
+  - brief: Specifies the alignment between the lines inside a flexible container when
+      the items do not use all available space
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_align-content.php
+    name: align-content
+  - brief: Specifies the alignment for items inside a flexible container
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_align-items.php
+    name: align-items
+  - brief: Specifies the alignment for selected items inside a flexible container
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_align-self.php
+    name: align-self
+  - brief: Resets all properties (except unicode-bidi and direction)
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_all.php
+    name: all
+  - brief: A shorthand property for all the animation-* properties
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation.php
+    name: animation
+  - brief: Specifies a delay for the start of an animation
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-delay.php
+    name: animation-delay
+  - brief: "Specifies whether an animation should be played forward, backward or \n\
+      \    in alternate cycles"
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-direction.php
+    name: animation-direction
+  - brief: Specifies how long an animation should take to complete one cycle
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-duration.php
+    name: animation-duration
+  - brief: "Specifies a style for the element when the animation is not playing (before\
+      \ \n    it starts, after it ends, or both)"
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-fill-mode.php
+    name: animation-fill-mode
+  - brief: Specifies the number of times an animation should be played
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-iteration-count.php
+    name: animation-iteration-count
+  - brief: Specifies a name for the @keyframes animation
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-name.php
+    name: animation-name
+  - brief: Specifies whether the animation is running or paused
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-play-state.php
+    name: animation-play-state
+  - brief: Specifies the speed curve of an animation
+    category: A
+    link: https://www.w3schools.com/cssref/css3_pr_animation-timing-function.php
+    name: animation-timing-function
+  - brief: Specifies preferred aspect ratio of an element
+    category: A
+    link: https://www.w3schools.com/cssref/css_pr_aspect-ratio.php
+    name: aspect-ratio
+  B:
+  - brief: Defines a graphical effect to the area behind an element
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_backdrop-filter.php
+    name: backdrop-filter
+  - brief: Defines whether or not the back face of an element should be visible when
+      facing the user
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_backface-visibility.php
+    name: backface-visibility
+  - brief: A shorthand property for all the background-* properties
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_background.php
+    name: background
+  - brief: Sets whether a background image scrolls with the rest of the page, or is
+      fixed
+    category: B
+    link: https://www.w3schools.com/cssref/pr_background-attachment.php
+    name: background-attachment
+  - brief: Specifies the blending mode of each background layer (color/image)
+    category: B
+    link: https://www.w3schools.com/cssref/pr_background-blend-mode.php
+    name: background-blend-mode
+  - brief: "Defines how far the background (color or image) should extend within an\
+      \ \n    element"
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_background-clip.php
+    name: background-clip
+  - brief: Specifies the background color of an element
+    category: B
+    link: https://www.w3schools.com/cssref/pr_background-color.php
+    name: background-color
+  - brief: Specifies one or more background images for an element
+    category: B
+    link: https://www.w3schools.com/cssref/pr_background-image.php
+    name: background-image
+  - brief: Specifies the origin position of a background image
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_background-origin.php
+    name: background-origin
+  - brief: Specifies the position of a background image
+    category: B
+    link: https://www.w3schools.com/cssref/pr_background-position.php
+    name: background-position
+  - brief: Specifies the position of a background image on x-axis
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_background-position-x.php
+    name: background-position-x
+  - brief: Specifies the position of a background image on y-axis
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_background-position-y.php
+    name: background-position-y
+  - brief: Sets if/how a background image will be repeated
+    category: B
+    link: https://www.w3schools.com/cssref/pr_background-repeat.php
+    name: background-repeat
+  - brief: Specifies the size of the background images
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_background-size.php
+    name: background-size
+  - brief: Specifies the size of an element in block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_block-size.php
+    name: block-size
+  - brief: A shorthand property for border-width, border-style and border-color
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border.php
+    name: border
+  - brief: A shorthand property for border-block-width, border-block-style and border-block-color
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block.php
+    name: border-block
+  - brief: Sets the color of the borders at start and end in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-color.php
+    name: border-block-color
+  - brief: A shorthand property for border-block-end-width, border-block-end-style
+      and border-block-end-color
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-end.php
+    name: border-block-end
+  - brief: Sets the color of the border at the end in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-end-color.php
+    name: border-block-end-color
+  - brief: Sets the style of the border at the end in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-end-style.php
+    name: border-block-end-style
+  - brief: Sets the width of the border at the end in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-end-width.php
+    name: border-block-end-width
+  - brief: A shorthand property for border-block-start-width, border-block-start-style
+      and border-block-start-color
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-start.php
+    name: border-block-start
+  - brief: Sets the color of the border at the start in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-start-color.php
+    name: border-block-start-color
+  - brief: Sets the style of the border at the start in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-start-style.php
+    name: border-block-start-style
+  - brief: Sets the width of the border at the start in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-start-width.php
+    name: border-block-start-width
+  - brief: Sets the style of the borders at start and end in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-style.php
+    name: border-block-style
+  - brief: Sets the width of the borders at start and end in the block direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-block-width.php
+    name: border-block-width
+  - brief: "A shorthand property for border-bottom-width, border-bottom-style \n \
+      \   and border-bottom-color"
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-bottom.php
+    name: border-bottom
+  - brief: Sets the color of the bottom border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-bottom_color.php
+    name: border-bottom-color
+  - brief: Defines the radius of the border of the bottom-left corner
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-bottom-left-radius.php
+    name: border-bottom-left-radius
+  - brief: Defines the radius of the border of the bottom-right corner
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-bottom-right-radius.php
+    name: border-bottom-right-radius
+  - brief: Sets the style of the bottom border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-bottom_style.php
+    name: border-bottom-style
+  - brief: Sets the width of the bottom border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-bottom_width.php
+    name: border-bottom-width
+  - brief: Sets whether table borders should collapse into a single border or be separated
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-collapse.php
+    name: border-collapse
+  - brief: Sets the color of the four borders
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-color.php
+    name: border-color
+  - brief: "Sets the radius of the corner between the block-end and the inline-end\
+      \ \n    sides of the element"
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-end-end-radius.php
+    name: border-end-end-radius
+  - brief: "Sets the radius of the corner between the block-end and the inline-start\
+      \ \n    sides of the element"
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-end-start-radius.php
+    name: border-end-start-radius
+  - brief: A shorthand property for all the border-image-* properties
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-image.php
+    name: border-image
+  - brief: Specifies the amount by which the border image area extends beyond the
+      border box
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-image-outset.php
+    name: border-image-outset
+  - brief: Specifies whether the border image should be repeated, rounded or stretched
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-image-repeat.php
+    name: border-image-repeat
+  - brief: Specifies how to slice the border image
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-image-slice.php
+    name: border-image-slice
+  - brief: Specifies the path to the image to be used as a border
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-image-source.php
+    name: border-image-source
+  - brief: Specifies the width of the border image
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-image-width.php
+    name: border-image-width
+  - brief: A shorthand property for border-inline-width, border-inline-style and border-inline-color
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline.php
+    name: border-inline
+  - brief: Sets the color of the borders at start and end in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-color.php
+    name: border-inline-color
+  - brief: A shorthand property for border-inline-end-width, border-inline-end-style
+      and border-inline-end-color
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-end.php
+    name: border-inline-end
+  - brief: Sets the color of the border at the end in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-end-color.php
+    name: border-inline-end-color
+  - brief: Sets the style of the border at the end in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-end-style.php
+    name: border-inline-end-style
+  - brief: Sets the width of the border at the end in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-end-width.php
+    name: border-inline-end-width
+  - brief: A shorthand property for border-inline-start-width, border-inline-start-style
+      and border-inline-start-color
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-start.php
+    name: border-inline-start
+  - brief: Sets the color of the border at the start in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-start-color.php
+    name: border-inline-start-color
+  - brief: Sets the style of the border at the start in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-start-style.php
+    name: border-inline-start-style
+  - brief: Sets the width of the border at the start in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-start-width.php
+    name: border-inline-start-width
+  - brief: Sets the style of the borders at start and end in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-style.php
+    name: border-inline-style
+  - brief: Sets the width of the borders at start and end in the inline direction
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-inline-width.php
+    name: border-inline-width
+  - brief: A shorthand property for all the border-left-* properties
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-left.php
+    name: border-left
+  - brief: Sets the color of the left border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-left_color.php
+    name: border-left-color
+  - brief: Sets the style of the left border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-left_style.php
+    name: border-left-style
+  - brief: Sets the width of the left border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-left_width.php
+    name: border-left-width
+  - brief: A shorthand property for the four border-*-radius properties
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-radius.php
+    name: border-radius
+  - brief: A shorthand property for all the border-right-* properties
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-right.php
+    name: border-right
+  - brief: Sets the color of the right border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-right_color.php
+    name: border-right-color
+  - brief: Sets the style of the right border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-right_style.php
+    name: border-right-style
+  - brief: Sets the width of the right border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-right_width.php
+    name: border-right-width
+  - brief: Sets the distance between the borders of adjacent cells
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-spacing.php
+    name: border-spacing
+  - brief: "Sets the radius of the corner between the block-start and the inline-end\
+      \ \n    sides of the element"
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-start-end-radius.php
+    name: border-start-end-radius
+  - brief: "Sets the radius of the corner between the block-start and the inline-start\
+      \ \n    sides of the element"
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_border-start-start-radius.php
+    name: border-start-start-radius
+  - brief: Sets the style of the four borders
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-style.php
+    name: border-style
+  - brief: "A shorthand property for border-top-width, border-top-style and\n    border-top-color"
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-top.php
+    name: border-top
+  - brief: Sets the color of the top border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-top_color.php
+    name: border-top-color
+  - brief: Defines the radius of the border of the top-left corner
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-top-left-radius.php
+    name: border-top-left-radius
+  - brief: Defines the radius of the border of the top-right corner
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_border-top-right-radius.php
+    name: border-top-right-radius
+  - brief: Sets the style of the top border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-top_style.php
+    name: border-top-style
+  - brief: Sets the width of the top border
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-top_width.php
+    name: border-top-width
+  - brief: Sets the width of the four borders
+    category: B
+    link: https://www.w3schools.com/cssref/pr_border-width.php
+    name: border-width
+  - brief: Sets the elements position, from the bottom of its parent element
+    category: B
+    link: https://www.w3schools.com/cssref/pr_pos_bottom.php
+    name: bottom
+  - brief: Sets the behavior of the background and border of an element at page-break,
+      or, for  in-line elements, at line-break.
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_box-decoration-break.php
+    name: box-decoration-break
+  - brief: The box-reflect property is used to create a reflection of an element.
+    category: B
+    link: https://www.w3schools.com/cssref/css_pr_box-reflect.php
+    name: box-reflect
+  - brief: Attaches one or more shadows to an element
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_box-shadow.php
+    name: box-shadow
+  - brief: "Defines how the width and height of an element are calculated: should\
+      \ \n    they include padding and borders, or not"
+    category: B
+    link: https://www.w3schools.com/cssref/css3_pr_box-sizing.php
+    name: box-sizing
+  - brief: "Specifies whether or not a page-, column-, or region-break should occur\
+      \ \n    after the specified element"
+    category: B
+    link: https://www.w3schools.com/cssref/pr_break-after.php
+    name: break-after
+  - brief: "Specifies whether or not a page-, column-, or region-break should occur\
+      \ \n    before the specified element"
+    category: B
+    link: https://www.w3schools.com/cssref/pr_break-before.php
+    name: break-before
+  - brief: "Specifies whether or not a page-, column-, or region-break should occur\
+      \ \n    inside the specified element"
+    category: B
+    link: https://www.w3schools.com/cssref/pr_break-inside.php
+    name: break-inside
+  C:
+  - brief: Specifies the placement of a table caption
+    category: C
+    link: https://www.w3schools.com/cssref/pr_tab_caption-side.php
+    name: caption-side
+  - brief: "Specifies the color of the cursor (caret) in inputs, textareas, or any\
+      \ \n    element that is editable"
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_caret-color.php
+    name: caret-color
+  - brief: "Specifies what should happen with the element that is next to a floating\
+      \ \n    element"
+    category: C
+    link: https://www.w3schools.com/cssref/pr_class_clear.php
+    name: clear
+  - brief: Deprecated in favor of clip-path. Clips an absolutely positioned element
+    category: C
+    link: https://www.w3schools.com/cssref/pr_pos_clip.php
+    name: clip
+  - brief: Clips an element to a basic shape or to an SVG source
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_clip-path.php
+    name: clip-path
+  - brief: Sets the color of text
+    category: C
+    link: https://www.w3schools.com/cssref/pr_text_color.php
+    name: color
+  - brief: "Indicates which operating system color scheme an element should render\
+      \ \n    with"
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_color-scheme.php
+    name: color-scheme
+  - brief: Specifies the number of columns an element should be divided into
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-count.php
+    name: column-count
+  - brief: Specifies how to fill columns, balanced or not
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-fill.php
+    name: column-fill
+  - brief: Specifies the gap between the columns
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-gap.php
+    name: column-gap
+  - brief: A shorthand property for all the column-rule-* properties
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-rule.php
+    name: column-rule
+  - brief: Specifies the color of the rule between columns
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-rule-color.php
+    name: column-rule-color
+  - brief: Specifies the style of the rule between columns
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-rule-style.php
+    name: column-rule-style
+  - brief: Specifies the width of the rule between columns
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-rule-width.php
+    name: column-rule-width
+  - brief: Specifies how many columns an element should span across
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-span.php
+    name: column-span
+  - brief: Specifies the column width
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_column-width.php
+    name: column-width
+  - brief: A shorthand property for column-width and column-count
+    category: C
+    link: https://www.w3schools.com/cssref/css3_pr_columns.php
+    name: columns
+  - brief: Used with the :before and :after pseudo-elements, to insert generated content
+    category: C
+    link: https://www.w3schools.com/cssref/pr_gen_content.php
+    name: content
+  - brief: Increases or decreases the value of one or more CSS counters
+    category: C
+    link: https://www.w3schools.com/cssref/pr_gen_counter-increment.php
+    name: counter-increment
+  - brief: Creates or resets one or more CSS counters
+    category: C
+    link: https://www.w3schools.com/cssref/pr_gen_counter-reset.php
+    name: counter-reset
+  - brief: Creates or sets one or more CSS counters
+    category: C
+    link: https://www.w3schools.com/cssref/pr_gen_counter-set.php
+    name: counter-set
+  - brief: Specifies the mouse cursor to be displayed when pointing over an element
+    category: C
+    link: https://www.w3schools.com/cssref/pr_class_cursor.php
+    name: cursor
+  D:
+  - brief: Specifies the text direction/writing direction
+    category: D
+    link: https://www.w3schools.com/cssref/pr_text_direction.php
+    name: direction
+  - brief: Specifies how a certain HTML element should be displayed
+    category: D
+    link: https://www.w3schools.com/cssref/pr_class_display.php
+    name: display
+  E:
+  - brief: Specifies whether or not to display borders and background on empty cells
+      in a table
+    category: E
+    link: https://www.w3schools.com/cssref/pr_tab_empty-cells.php
+    name: empty-cells
+  F:
+  - brief: Defines effects (e.g. blurring or color shifting) on an element before
+      the element is displayed
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_filter.php
+    name: filter
+  - brief: "A shorthand property for the flex-grow, flex-shrink, and the \n    flex-basis\
+      \ \n    properties"
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_flex.php
+    name: flex
+  - brief: Specifies the initial length of a flexible item
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_flex-basis.php
+    name: flex-basis
+  - brief: Specifies the direction of the flexible items
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_flex-direction.php
+    name: flex-direction
+  - brief: A shorthand property for the flex-direction and the flex-wrap properties
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_flex-flow.php
+    name: flex-flow
+  - brief: Specifies how much the item will grow relative to the rest
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_flex-grow.php
+    name: flex-grow
+  - brief: Specifies how the item will shrink relative to the rest
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_flex-shrink.php
+    name: flex-shrink
+  - brief: Specifies whether the flexible items should wrap or not
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_flex-wrap.php
+    name: flex-wrap
+  - brief: "Specifies whether an element should float to the left, right, or not at\
+      \ \n    all"
+    category: F
+    link: https://www.w3schools.com/cssref/pr_class_float.php
+    name: float
+  - brief: "A shorthand property for the font-style, font-variant, font-weight, \n\
+      \    font-size/line-height, and the font-family properties"
+    category: F
+    link: https://www.w3schools.com/cssref/pr_font_font.php
+    name: font
+  - brief: Specifies the font family for text
+    category: F
+    link: https://www.w3schools.com/cssref/pr_font_font-family.php
+    name: font-family
+  - brief: Allows control over advanced typographic features in OpenType fonts
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_font-feature-settings.php
+    name: font-feature-settings
+  - brief: Controls the usage of the kerning information (how letters are spaced)
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_font-kerning.php
+    name: font-kerning
+  - brief: Specifies the font size of text
+    category: F
+    link: https://www.w3schools.com/cssref/pr_font_font-size.php
+    name: font-size
+  - brief: Preserves the readability and size of text when fallback font occurs
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_font-size-adjust.php
+    name: font-size-adjust
+  - brief: Selects a normal, condensed, or expanded face from a font family
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_font-stretch.php
+    name: font-stretch
+  - brief: Specifies the font style for text
+    category: F
+    link: https://www.w3schools.com/cssref/pr_font_font-style.php
+    name: font-style
+  - brief: Specifies whether or not a text should be displayed in a small-caps font
+    category: F
+    link: https://www.w3schools.com/cssref/pr_font_font-variant.php
+    name: font-variant
+  - brief: Controls the usage of alternate glyphs for capital letters
+    category: F
+    link: https://www.w3schools.com/cssref/css3_pr_font-variant-caps.php
+    name: font-variant-caps
+  - brief: Specifies the weight of a font
+    category: F
+    link: https://www.w3schools.com/cssref/pr_font_weight.php
+    name: font-weight
+  G:
+  - brief: A shorthand property for the row-gap and the column-gap properties
+    category: G
+    link: https://www.w3schools.com/cssref/css3_pr_gap.php
+    name: gap
+  - brief: "A shorthand property for the grid-template-rows, \n    grid-template-columns,\
+      \ grid-template-areas, grid-auto-rows, \n    grid-auto-columns, and the grid-auto-flow\
+      \ properties"
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid.php
+    name: grid
+  - brief: Either specifies a name for the grid item, or this property is a shorthand
+      property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end
+      properties
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-area.php
+    name: grid-area
+  - brief: Specifies a default column size
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-auto-columns.php
+    name: grid-auto-columns
+  - brief: Specifies how auto-placed items are inserted in the grid
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-auto-flow.php
+    name: grid-auto-flow
+  - brief: Specifies a default row size
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-auto-rows.php
+    name: grid-auto-rows
+  - brief: A shorthand property for the grid-column-start and the grid-column-end
+      properties
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-column.php
+    name: grid-column
+  - brief: Specifies where to end the grid item
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-column-end.php
+    name: grid-column-end
+  - brief: Specifies where to start the grid item
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-column-start.php
+    name: grid-column-start
+  - brief: A shorthand property for the grid-row-start and the grid-row-end properties
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-row.php
+    name: grid-row
+  - brief: Specifies where to end the grid item
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-row-end.php
+    name: grid-row-end
+  - brief: Specifies where to start the grid item
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-row-start.php
+    name: grid-row-start
+  - brief: "A shorthand property for the grid-template-rows, grid-template-columns\
+      \ \n    and grid-areas properties"
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-template.php
+    name: grid-template
+  - brief: Specifies how to display columns and rows, using named grid items
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-template-areas.php
+    name: grid-template-areas
+  - brief: Specifies the size of the columns, and how many columns in a grid layout
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-template-columns.php
+    name: grid-template-columns
+  - brief: Specifies the size of the rows in a grid layout
+    category: G
+    link: https://www.w3schools.com/cssref/pr_grid-template-rows.php
+    name: grid-template-rows
+  H:
+  - brief: Specifies whether a punctuation character may be placed outside the line
+      box
+    category: H
+    link: https://www.w3schools.com/cssref/css3_pr_hanging-punctuation.php
+    name: hanging-punctuation
+  - brief: Sets the height of an element
+    category: H
+    link: https://www.w3schools.com/cssref/pr_dim_height.php
+    name: height
+  - brief: Sets how to split words to improve the layout of text
+    category: H
+    link: https://www.w3schools.com/cssref/css3_pr_hyphens.php
+    name: hyphens
+  - brief: Sets the character used at the end of line, before a hyphenation break
+    category: H
+    link: https://www.w3schools.com/cssref/css3_pr_hyphenate-character.php
+    name: hypenate-character
+  I:
+  - brief: Specifies the type of algorithm to use for image scaling
+    category: I
+    link: https://www.w3schools.com/cssref/css3_pr_image-rendering.php
+    name: image-rendering
+  - brief: "Specifies the size of the initial-letter and optionally the number of\
+      \ \n    lines the initial letter should sink (down in the text)"
+    category: I
+    link: https://www.w3schools.com/cssref/css3_pr_initial-letter.php
+    name: initial-letter
+  - brief: Specifies the size of an element in the inline direction
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inline-size.php
+    name: inline-size
+  - brief: Specifies the distance between an element and the parent element
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inset.php
+    name: inset
+  - brief: Specifies the distance between an element and the parent element in the
+      block direction
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inset-block.php
+    name: inset-block
+  - brief: Specifies the distance between the end of an element and the parent element
+      in the block direction
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inset-block-end.php
+    name: inset-block-end
+  - brief: Specifies the distance between the start of an element and the parent element
+      in the block direction
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inset-block-start.php
+    name: inset-block-start
+  - brief: Specifies the distance between an element and the parent element in the
+      inline direction
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inset-inline.php
+    name: inset-inline
+  - brief: Specifies the distance between the end of an element and the parent element
+      in the inline direction
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inset-inline-end.php
+    name: inset-inline-end
+  - brief: Specifies the distance between the start of an element and the parent element
+      in the inline direction
+    category: I
+    link: https://www.w3schools.com/cssref/css_pr_inset-inline-start.php
+    name: inset-inline-start
+  - brief: Defines whether an element must create a new stacking content
+    category: I
+    link: https://www.w3schools.com/cssref/css3_pr_isolation.php
+    name: isolation
+  J:
+  - brief: Specifies the alignment between the items inside a flexible container when
+      the items do not use all available space
+    category: J
+    link: https://www.w3schools.com/cssref/css3_pr_justify-content.php
+    name: justify-content
+  - brief: Is set on the grid container. Specifies the alignment of grid items in
+      the inline direction
+    category: J
+    link: https://www.w3schools.com/cssref/css_pr_justify-items.php
+    name: justify-items
+  - brief: Is set on the grid item. Specifies the alignment of the grid item in the
+      inline direction
+    category: J
+    link: https://www.w3schools.com/cssref/css_pr_justify-self.php
+    name: justify-self
+  L:
+  - brief: Specifies the left position of a positioned element
+    category: L
+    link: https://www.w3schools.com/cssref/pr_pos_left.php
+    name: left
+  - brief: Increases or decreases the space between characters in a text
+    category: L
+    link: https://www.w3schools.com/cssref/pr_text_letter-spacing.php
+    name: letter-spacing
+  - brief: Sets the line height
+    category: L
+    link: https://www.w3schools.com/cssref/pr_dim_line-height.php
+    name: line-height
+  - brief: Sets all the properties for a list in one declaration
+    category: L
+    link: https://www.w3schools.com/cssref/pr_list-style.php
+    name: list-style
+  - brief: Specifies an image as the list-item marker
+    category: L
+    link: https://www.w3schools.com/cssref/pr_list-style-image.php
+    name: list-style-image
+  - brief: Specifies the position of the list-item markers (bullet points)
+    category: L
+    link: https://www.w3schools.com/cssref/pr_list-style-position.php
+    name: list-style-position
+  - brief: Specifies the type of list-item marker
+    category: L
+    link: https://www.w3schools.com/cssref/pr_list-style-type.php
+    name: list-style-type
+  M:
+  - brief: Sets all the margin properties in one declaration
+    category: M
+    link: https://www.w3schools.com/cssref/pr_margin.php
+    name: margin
+  - brief: Specifies the margin in the block direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_margin-block.php
+    name: margin-block
+  - brief: Specifies the margin at the end in the block direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_margin-block-end.php
+    name: margin-block-end
+  - brief: Specifies the margin at the start in the block direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_margin-block-start.php
+    name: margin-block-start
+  - brief: Sets the bottom margin of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_margin-bottom.php
+    name: margin-bottom
+  - brief: Specifies the margin in the inline direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_margin-inline.php
+    name: margin-inline
+  - brief: Specifies the margin at the end in the inline direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_margin-inline-end.php
+    name: margin-inline-end
+  - brief: Specifies the margin at the start in the inline direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_margin-inline-start.php
+    name: margin-inline-start
+  - brief: Sets the left margin of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_margin-left.php
+    name: margin-left
+  - brief: Sets the right margin of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_margin-right.php
+    name: margin-right
+  - brief: Sets the top margin of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_margin-top.php
+    name: margin-top
+  - brief: "Points to a marker that will be drawn on all vertices of an element's\
+      \ \n    path (the first, middle, and last)"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_marker.php
+    name: marker
+  - brief: "Points to a marker that will be drawn on the last vertex of an element's\
+      \ \n    path"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_marker-end.php
+    name: marker-end
+  - brief: "Points to a marker that will be drawn on all the middle vertices of an\
+      \ \n    element's path"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_marker-mid.php
+    name: marker-mid
+  - brief: "Points to a marker that will be drawn on the first vertex of an \n   \
+      \ element's path"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_marker-start.php
+    name: marker-start
+  - brief: "A shorthand property for mask-image, mask-mode, \n    mask-repeat, mask-position,\
+      \ mask-clip, mask-origin,\n    mask-size and mask-composite"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask.php
+    name: mask
+  - brief: Specifies which area is affected by a mask image
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-clip.php
+    name: mask-clip
+  - brief: "Specifies a compositing operation used on the current mask layer with\
+      \ \n    the mask layers below it"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-composite.php
+    name: mask-composite
+  - brief: Specifies an image to be used as a mask layer for an element
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-image.php
+    name: mask-image
+  - brief: "Specifies whether the mask layer image is treated as a luminance mask\
+      \ or \n    as an alpha mask"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-mode.php
+    name: mask-mode
+  - brief: Specifies the origin position (the mask position area) of a mask layer
+      image
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-origin.php
+    name: mask-origin
+  - brief: "Sets the starting position of a mask layer image (relative to the \n \
+      \   mask position area)"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-position.php
+    name: mask-position
+  - brief: Specifies how the mask layer image is repeated
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-repeat.php
+    name: mask-repeat
+  - brief: Specifies the size of a mask layer image
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-size.php
+    name: mask-size
+  - brief: "Specifies whether an SVG <mask> element is treated as a luminance \n \
+      \   mask or as an alpha mask"
+    category: M
+    link: https://www.w3schools.com/cssref/css3_pr_mask-type.php
+    name: mask-type
+  - brief: Sets the maximum height of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_dim_max-height.php
+    name: max-height
+  - brief: Sets the maximum width of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_dim_max-width.php
+    name: max-width
+  - brief: Sets the maximum size of an element in the block direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_max-block-size.php
+    name: max-block-size
+  - brief: Sets the maximum size of an element in the inline direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_max-inline-size.php
+    name: max-inline-size
+  - brief: Sets the minimum size of an element in the block direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_min-block-size.php
+    name: min-block-size
+  - brief: Sets the minimum size of an element in the inline direction
+    category: M
+    link: https://www.w3schools.com/cssref/css_pr_min-inline-size.php
+    name: min-inline-size
+  - brief: Sets the minimum height of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_dim_min-height.php
+    name: min-height
+  - brief: Sets the minimum width of an element
+    category: M
+    link: https://www.w3schools.com/cssref/pr_dim_min-width.php
+    name: min-width
+  - brief: Specifies how an element's content should blend with its direct parent
+      background
+    category: M
+    link: https://www.w3schools.com/cssref/pr_mix-blend-mode.php
+    name: mix-blend-mode
+  O:
+  - brief: Specifies how the contents of a replaced element should be fitted to the
+      box established by its used height and width
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_object-fit.php
+    name: object-fit
+  - brief: Specifies the alignment of the replaced element inside its box
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_object-position.php
+    name: object-position
+  - brief: "A shorthand property for the offset-anchor, offset-distance,\n    offset-path,\
+      \ offset-position, and the offset-rotate \n    properties"
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_offset.php
+    name: offset
+  - brief: Specifies a point on an element that is fixed to the path it is animated
+      along
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_offset-anchor.php
+    name: offset-anchor
+  - brief: Specifies the position along a path where an animated element is placed
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_offset-distance.php
+    name: offset-distance
+  - brief: Specifies the path an element is animated along
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_offset-path.php
+    name: offset-path
+  - brief: Specifies the initial position of an element along a path
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_offset-position.php
+    name: offset-position
+  - brief: Specifies rotation of an element as it is animated along a path
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_offset-rotate.php
+    name: offset-rotate
+  - brief: Sets the opacity level for an element
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_opacity.php
+    name: opacity
+  - brief: Sets the order of the flexible item, relative to the rest
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_order.php
+    name: order
+  - brief: "Sets the minimum number of lines that must be left at the bottom of a\
+      \ \n    page or column"
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_orphans.php
+    name: orphans
+  - brief: "A shorthand property for the outline-width, outline-style, and \n    the\
+      \ outline-color properties"
+    category: O
+    link: https://www.w3schools.com/cssref/pr_outline.php
+    name: outline
+  - brief: Sets the color of an outline
+    category: O
+    link: https://www.w3schools.com/cssref/pr_outline-color.php
+    name: outline-color
+  - brief: Offsets an outline, and draws it beyond the border edge
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_outline-offset.php
+    name: outline-offset
+  - brief: Sets the style of an outline
+    category: O
+    link: https://www.w3schools.com/cssref/pr_outline-style.php
+    name: outline-style
+  - brief: Sets the width of an outline
+    category: O
+    link: https://www.w3schools.com/cssref/pr_outline-width.php
+    name: outline-width
+  - brief: Specifies what happens if content overflows an element's box
+    category: O
+    link: https://www.w3schools.com/cssref/pr_pos_overflow.php
+    name: overflow
+  - brief: Specifies whether or not content in viewable area in a scrollable contianer
+      should be pushed down when new content is loaded above
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_overflow-anchor.php
+    name: overflow-anchor
+  - brief: "Specifies whether or not the browser can break lines with long words,\
+      \ if \n    they overflow the container"
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_overflow-wrap.php
+    name: overflow-wrap
+  - brief: Specifies whether or not to clip the left/right edges of the content, if
+      it overflows the element's content area
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_overflow-x.php
+    name: overflow-x
+  - brief: Specifies whether or not to clip the top/bottom edges of the content, if
+      it overflows the element's content area
+    category: O
+    link: https://www.w3schools.com/cssref/css3_pr_overflow-y.php
+    name: overflow-y
+  - brief: Specifies whether to have scroll chaining or overscroll affordance in x-
+      and y-directions
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_overscroll-behavior.php
+    name: overscroll-behavior
+  - brief: Specifies whether to have scroll chaining or overscroll affordance in the
+      block direction
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_overscroll-behavior-block.php
+    name: overscroll-behavior-block
+  - brief: Specifies whether to have scroll chaining or overscroll affordance in the
+      inline direction
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_overscroll-behavior-inline.php
+    name: overscroll-behavior-inline
+  - brief: Specifies whether to have scroll chaining or overscroll affordance in x-direction
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_overscroll-behavior-x.php
+    name: overscroll-behavior-x
+  - brief: Specifies whether to have scroll chaining or overscroll affordance in y-directions
+    category: O
+    link: https://www.w3schools.com/cssref/css_pr_overscroll-behavior-y.php
+    name: overscroll-behavior-y
+  P:
+  - brief: A shorthand property for all the padding-* properties
+    category: P
+    link: https://www.w3schools.com/cssref/pr_padding.php
+    name: padding
+  - brief: Specifies the padding in the block direction
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_padding-block.php
+    name: padding-block
+  - brief: Specifies the padding at the end in the block direction
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_padding-block-end.php
+    name: padding-block-end
+  - brief: Specifies the padding at the start in the block direction
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_padding-block-start.php
+    name: padding-block-start
+  - brief: Sets the bottom padding of an element
+    category: P
+    link: https://www.w3schools.com/cssref/pr_padding-bottom.php
+    name: padding-bottom
+  - brief: Specifies the padding in the inline direction
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_padding-inline.php
+    name: padding-inline
+  - brief: Specifies the padding at the end in the inline direction
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_padding-inline-end.php
+    name: padding-inline-end
+  - brief: Specifies the padding at the start in the inline direction
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_padding-inline-start.php
+    name: padding-inline-start
+  - brief: Sets the left padding of an element
+    category: P
+    link: https://www.w3schools.com/cssref/pr_padding-left.php
+    name: padding-left
+  - brief: Sets the right padding of an element
+    category: P
+    link: https://www.w3schools.com/cssref/pr_padding-right.php
+    name: padding-right
+  - brief: Sets the top padding of an element
+    category: P
+    link: https://www.w3schools.com/cssref/pr_padding-top.php
+    name: padding-top
+  - brief: Sets the page-break behavior after an element. Replaced by break-after
+      property
+    category: P
+    link: https://www.w3schools.com/cssref/pr_print_pageba.php
+    name: page-break-after
+  - brief: Sets the page-break behavior before an element. Replaced by break-before
+      property
+    category: P
+    link: https://www.w3schools.com/cssref/pr_print_pagebb.php
+    name: page-break-before
+  - brief: Sets the page-break behavior inside an element. Replaced by break-inside
+      property
+    category: P
+    link: https://www.w3schools.com/cssref/pr_print_pagebi.php
+    name: page-break-inside
+  - brief: Sets the order of how an SVG element or text is painted.
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_paint-order.php
+    name: paint-order
+  - brief: Gives a 3D-positioned element some perspective
+    category: P
+    link: https://www.w3schools.com/cssref/css3_pr_perspective.php
+    name: perspective
+  - brief: Defines at which position the user is looking at the 3D-positioned element
+    category: P
+    link: https://www.w3schools.com/cssref/css3_pr_perspective-origin.php
+    name: perspective-origin
+  - brief: Specifies align-content and justify-content property values for flexbox
+      and grid layouts
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_place-content.php
+    name: place-content
+  - brief: Specifies align-items and justify-items property values for grid layouts
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_place-items.php
+    name: place-items
+  - brief: Specifies align-self and justify-self property values for grid layouts
+    category: P
+    link: https://www.w3schools.com/cssref/css_pr_place-self.php
+    name: place-self
+  - brief: Defines whether or not an element reacts to pointer events
+    category: P
+    link: https://www.w3schools.com/cssref/css3_pr_pointer-events.php
+    name: pointer-events
+  - brief: Specifies the type of positioning method used for an element (static, relative,
+      absolute or fixed)
+    category: P
+    link: https://www.w3schools.com/cssref/pr_class_position.php
+    name: position
+  Q:
+  - brief: Sets the type of quotation marks for embedded quotations
+    category: Q
+    link: https://www.w3schools.com/cssref/pr_gen_quotes.php
+    name: quotes
+  R:
+  - brief: Defines if (and how) an element is resizable by the user
+    category: R
+    link: https://www.w3schools.com/cssref/css3_pr_resize.php
+    name: resize
+  - brief: Specifies the right position of a positioned element
+    category: R
+    link: https://www.w3schools.com/cssref/pr_pos_right.php
+    name: right
+  - brief: Specifies the rotation of an element
+    category: R
+    link: https://www.w3schools.com/cssref/css_pr_rotate.php
+    name: rotate
+  - brief: Specifies the gap between the grid rows
+    category: R
+    link: https://www.w3schools.com/cssref/css3_pr_row-gap.php
+    name: row-gap
+  S:
+  - brief: Specifies the size of an element by scaling up or down
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scale.php
+    name: scale
+  - brief: Specifies whether to smoothly animate the scroll position in a scrollable
+      box, instead of a straight jump
+    category: S
+    link: https://www.w3schools.com/cssref/pr_scroll-behavior.php
+    name: scroll-behavior
+  - brief: Specifies the margin between the snap position and the container
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin.php
+    name: scroll-margin
+  - brief: Specifies the margin between the snap position and the container in the
+      block direction
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-block.php
+    name: scroll-margin-block
+  - brief: Specifies the end margin between the snap position and the container in
+      the block direction
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-block-end.php
+    name: scroll-margin-block-end
+  - brief: Specifies the start margin between the snap position and the container
+      in the block direction
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-block-start.php
+    name: scroll-margin-block-start
+  - brief: Specifies the margin between the snap position on the bottom side and the
+      container
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-bottom.php
+    name: scroll-margin-bottom
+  - brief: Specifies the margin between the snap position and the container in the
+      inline direction
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-inline.php
+    name: scroll-margin-inline
+  - brief: Specifies the end margin between the snap position and the container in
+      the inline direction
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-inline-end.php
+    name: scroll-margin-inline-end
+  - brief: Specifies the start margin between the snap position and the container
+      in the inline direction
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-inline-start.php
+    name: scroll-margin-inline-start
+  - brief: Specifies the margin between the snap position on the left side and the
+      container
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-left.php
+    name: scroll-margin-left
+  - brief: Specifies the margin between the snap position on the right side and the
+      container
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-right.php
+    name: scroll-margin-right
+  - brief: Specifies the margin between the snap position on the top side and the
+      container
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-margin-top
+  - brief: Specifies the distance from the container to the snap position on the child
+      elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding
+  - brief: Specifies the distance in block direction from the container to the snap
+      position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-block
+  - brief: Specifies the distance in block direction from the end of the container
+      to the snap position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-block-end
+  - brief: Specifies the distance in block direction from the start of the container
+      to the snap position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-block-start
+  - brief: Specifies the distance from the bottom of the container to the snap position
+      on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-bottom
+  - brief: Specifies the distance in inline direction from the container to the snap
+      position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-inline
+  - brief: Specifies the distance in inline direction from the end of the container
+      to the snap position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-inline-end
+  - brief: Specifies the distance in inline direction from the start of the container
+      to the snap position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-inline-start
+  - brief: Specifies the distance from the left side of the container to the snap
+      position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-left
+  - brief: Specifies the distance from the right side of the container to the snap
+      position on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-right
+  - brief: Specifies the distance from the top of the container to the snap position
+      on the child elements
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-margin-top.php
+    name: scroll-padding-top
+  - brief: Specifies where to position elements when the user stops scrolling
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-snap-align.php
+    name: scroll-snap-align
+  - brief: Specifies scroll behaviour after fast swipe on trackpad or touch screen
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-snap-stop.php
+    name: scroll-snap-stop
+  - brief: Specifies how snap behaviour should be when scrolling
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scroll-snap-type.php
+    name: scroll-snap-type
+  - brief: Specifies the color of the scrollbar of an element
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_scrollbar-color.php
+    name: scrollbar-color
+  - brief: Defines a shape for wrapping for the inline content
+    category: S
+    link: https://www.w3schools.com/cssref/css_pr_shape-outside.php
+    name: shape-outside
+  T:
+  - brief: Specifies the width of a tab character
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_tab-size.php
+    name: tab-size
+  - brief: Defines the algorithm used to lay out table cells, rows, and columns
+    category: T
+    link: https://www.w3schools.com/cssref/pr_tab_table-layout.php
+    name: table-layout
+  - brief: Specifies the horizontal alignment of text
+    category: T
+    link: https://www.w3schools.com/cssref/pr_text_text-align.php
+    name: text-align
+  - brief: Describes how the last line of a block or a line right before a forced
+      line break is aligned when text-align is "justify"
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-align-last.php
+    name: text-align-last
+  - brief: Specifies the decoration added to text
+    category: T
+    link: https://www.w3schools.com/cssref/pr_text_text-decoration.php
+    name: text-decoration
+  - brief: Specifies the color of the text-decoration
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-decoration-color.php
+    name: text-decoration-color
+  - brief: Specifies the type of line in a text-decoration
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-decoration-line.php
+    name: text-decoration-line
+  - brief: Specifies the style of the line in a text decoration
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-decoration-style.php
+    name: text-decoration-style
+  - brief: Specifies the thickness of the decoration line
+    category: T
+    link: https://www.w3schools.com/cssref/pr_text_text-decoration-thickness.php
+    name: text-decoration-thickness
+  - brief: "A shorthand property for the text-emphasis-style and \n    text-emphasis-color\
+      \ properties"
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-emphasis.php
+    name: text-emphasis
+  - brief: Specifies the color of emphasis marks
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-emphasis-color.php
+    name: text-emphasis-color
+  - brief: Specifies the position of emphasis marks
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-emphasis-position.php
+    name: text-emphasis-position
+  - brief: Specifies the style of emphasis marks
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-emphasis-style.php
+    name: text-emphasis-style
+  - brief: Specifies the indentation of the first line in a text-block
+    category: T
+    link: https://www.w3schools.com/cssref/pr_text_text-indent.php
+    name: text-indent
+  - brief: Specifies the justification method used when text-align is "justify"
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-justify.php
+    name: text-justify
+  - brief: Defines the orientation of characters in a line
+    category: T
+    link: https://www.w3schools.com/cssref/css_pr_text-orientation.php
+    name: text-orientation
+  - brief: Specifies what should happen when text overflows the containing element
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-overflow.php
+    name: text-overflow
+  - brief: Adds shadow to text
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-shadow.php
+    name: text-shadow
+  - brief: Controls the capitalization of text
+    category: T
+    link: https://www.w3schools.com/cssref/pr_text_text-transform.php
+    name: text-transform
+  - brief: Specifies the offset distance of the underline text decoration
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-underline-offset.php
+    name: text-underline-offset
+  - brief: Specifies the position of the underline text decoration
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_text-underline-position.php
+    name: text-underline-position
+  - brief: Specifies the top position of a positioned element
+    category: T
+    link: https://www.w3schools.com/cssref/pr_pos_top.php
+    name: top
+  - brief: Applies a 2D or 3D transformation to an element
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transform.php
+    name: transform
+  - brief: Allows you to change the position on transformed elements
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transform-origin.php
+    name: transform-origin
+  - brief: Specifies how nested elements are rendered in 3D space
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transform-style.php
+    name: transform-style
+  - brief: A shorthand property for all the transition-* properties
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transition.php
+    name: transition
+  - brief: Specifies when the transition effect will start
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transition-delay.php
+    name: transition-delay
+  - brief: Specifies how many seconds or milliseconds a transition effect takes to
+      complete
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transition-duration.php
+    name: transition-duration
+  - brief: Specifies the name of the CSS property the transition effect is for
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transition-property.php
+    name: transition-property
+  - brief: Specifies the speed curve of the transition effect
+    category: T
+    link: https://www.w3schools.com/cssref/css3_pr_transition-timing-function.php
+    name: transition-timing-function
+  - brief: Specifies the position of an element
+    category: T
+    link: https://www.w3schools.com/cssref/css_pr_translate.php
+    name: translate
+  U:
+  - brief: Used together with the direction property to set or return whether the
+      text should be overridden to support multiple languages in the same document
+    category: U
+    link: https://www.w3schools.com/cssref/pr_text_unicode-bidi.php
+    name: unicode-bidi
+  - brief: Specifies whether the text of an element can be selected
+    category: U
+    link: https://www.w3schools.com/cssref/css3_pr_user-select.php
+    name: user-select
+  V:
+  - brief: Sets the vertical alignment of an element
+    category: V
+    link: https://www.w3schools.com/cssref/pr_pos_vertical-align.php
+    name: vertical-align
+  - brief: Specifies whether or not an element is visible
+    category: V
+    link: https://www.w3schools.com/cssref/pr_class_visibility.php
+    name: visibility
+  W:
+  - brief: Specifies how white-space inside an element is handled
+    category: W
+    link: https://www.w3schools.com/cssref/pr_text_white-space.php
+    name: white-space
+  - brief: "Sets the minimum number of lines that must be left at the top of a page\
+      \ \n    or column"
+    category: W
+    link: https://www.w3schools.com/cssref/css3_pr_widows.php
+    name: widows
+  - brief: Sets the width of an element
+    category: W
+    link: https://www.w3schools.com/cssref/pr_dim_width.php
+    name: width
+  - brief: Specifies how words should break when reaching the end of a line
+    category: W
+    link: https://www.w3schools.com/cssref/css3_pr_word-break.php
+    name: word-break
+  - brief: Increases or decreases the space between words in a text
+    category: W
+    link: https://www.w3schools.com/cssref/pr_text_word-spacing.php
+    name: word-spacing
+  - brief: Allows long, unbreakable words to be broken and wrap to the next line
+    category: W
+    link: https://www.w3schools.com/cssref/css3_pr_word-wrap.php
+    name: word-wrap
+  - brief: Specifies whether lines of text are laid out horizontally or vertically
+    category: W
+    link: https://www.w3schools.com/cssref/css3_pr_writing-mode.php
+    name: writing-mode
+  Z:
+  - brief: Sets the stack order of a positioned element
+    category: Z
+    link: https://www.w3schools.com/cssref/pr_pos_z-index.php
+    name: z-index
+  - brief: Specifies the zoom factor for an element. An element can be zoomed in and
+      out
+    category: Z
+    link: https://www.w3schools.com/cssref/css3_pr_zoom.php
+    name: zoom

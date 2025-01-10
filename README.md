@@ -13,9 +13,9 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `A` | `all` | Resets all properties (except unicode-bidi and direction) | [Learn More](https://www.w3schools.com/cssref/css3_pr_all.php) |
 | `A` | `animation` | A shorthand property for all the animation-* properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation.php) |
 | `A` | `animation-delay` | Specifies a delay for the start of an animation | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-delay.php) |
-| `A` | `animation-direction` | Specifies whether an animation should be played forward, backward or      in alternate cycles | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-direction.php) |
+| `A` | `animation-direction` | Specifies whether an animation should be played forward, backward or    in alternate cycles | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-direction.php) |
 | `A` | `animation-duration` | Specifies how long an animation should take to complete one cycle | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-duration.php) |
-| `A` | `animation-fill-mode` | Specifies a style for the element when the animation is not playing (before      it starts, after it ends, or both) | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-fill-mode.php) |
+| `A` | `animation-fill-mode` | Specifies a style for the element when the animation is not playing (before    it starts, after it ends, or both) | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-fill-mode.php) |
 | `A` | `animation-iteration-count` | Specifies the number of times an animation should be played | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-iteration-count.php) |
 | `A` | `animation-name` | Specifies a name for the @keyframes animation | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-name.php) |
 | `A` | `animation-play-state` | Specifies whether the animation is running or paused | [Learn More](https://www.w3schools.com/cssref/css3_pr_animation-play-state.php) |
@@ -26,7 +26,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `B` | `background` | A shorthand property for all the background-* properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_background.php) |
 | `B` | `background-attachment` | Sets whether a background image scrolls with the rest of the page, or is fixed | [Learn More](https://www.w3schools.com/cssref/pr_background-attachment.php) |
 | `B` | `background-blend-mode` | Specifies the blending mode of each background layer (color/image) | [Learn More](https://www.w3schools.com/cssref/pr_background-blend-mode.php) |
-| `B` | `background-clip` | Defines how far the background (color or image) should extend within an      element | [Learn More](https://www.w3schools.com/cssref/css3_pr_background-clip.php) |
+| `B` | `background-clip` | Defines how far the background (color or image) should extend within an    element | [Learn More](https://www.w3schools.com/cssref/css3_pr_background-clip.php) |
 | `B` | `background-color` | Specifies the background color of an element | [Learn More](https://www.w3schools.com/cssref/pr_background-color.php) |
 | `B` | `background-image` | Specifies one or more background images for an element | [Learn More](https://www.w3schools.com/cssref/pr_background-image.php) |
 | `B` | `background-origin` | Specifies the origin position of a background image | [Learn More](https://www.w3schools.com/cssref/css3_pr_background-origin.php) |
@@ -49,7 +49,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `B` | `border-block-start-width` | Sets the width of the border at the start in the block direction | [Learn More](https://www.w3schools.com/cssref/css_pr_border-block-start-width.php) |
 | `B` | `border-block-style` | Sets the style of the borders at start and end in the block direction | [Learn More](https://www.w3schools.com/cssref/css_pr_border-block-style.php) |
 | `B` | `border-block-width` | Sets the width of the borders at start and end in the block direction | [Learn More](https://www.w3schools.com/cssref/css_pr_border-block-width.php) |
-| `B` | `border-bottom` | A shorthand property for border-bottom-width, border-bottom-style      and border-bottom-color | [Learn More](https://www.w3schools.com/cssref/pr_border-bottom.php) |
+| `B` | `border-bottom` | A shorthand property for border-bottom-width, border-bottom-style    and border-bottom-color | [Learn More](https://www.w3schools.com/cssref/pr_border-bottom.php) |
 | `B` | `border-bottom-color` | Sets the color of the bottom border | [Learn More](https://www.w3schools.com/cssref/pr_border-bottom_color.php) |
 | `B` | `border-bottom-left-radius` | Defines the radius of the border of the bottom-left corner | [Learn More](https://www.w3schools.com/cssref/css3_pr_border-bottom-left-radius.php) |
 | `B` | `border-bottom-right-radius` | Defines the radius of the border of the bottom-right corner | [Learn More](https://www.w3schools.com/cssref/css3_pr_border-bottom-right-radius.php) |
@@ -57,8 +57,8 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `B` | `border-bottom-width` | Sets the width of the bottom border | [Learn More](https://www.w3schools.com/cssref/pr_border-bottom_width.php) |
 | `B` | `border-collapse` | Sets whether table borders should collapse into a single border or be separated | [Learn More](https://www.w3schools.com/cssref/pr_border-collapse.php) |
 | `B` | `border-color` | Sets the color of the four borders | [Learn More](https://www.w3schools.com/cssref/pr_border-color.php) |
-| `B` | `border-end-end-radius` | Sets the radius of the corner between the block-end and the inline-end      sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-end-end-radius.php) |
-| `B` | `border-end-start-radius` | Sets the radius of the corner between the block-end and the inline-start      sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-end-start-radius.php) |
+| `B` | `border-end-end-radius` | Sets the radius of the corner between the block-end and the inline-end    sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-end-end-radius.php) |
+| `B` | `border-end-start-radius` | Sets the radius of the corner between the block-end and the inline-start    sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-end-start-radius.php) |
 | `B` | `border-image` | A shorthand property for all the border-image-* properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_border-image.php) |
 | `B` | `border-image-outset` | Specifies the amount by which the border image area extends beyond the border box | [Learn More](https://www.w3schools.com/cssref/css3_pr_border-image-outset.php) |
 | `B` | `border-image-repeat` | Specifies whether the border image should be repeated, rounded or stretched | [Learn More](https://www.w3schools.com/cssref/css3_pr_border-image-repeat.php) |
@@ -87,10 +87,10 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `B` | `border-right-style` | Sets the style of the right border | [Learn More](https://www.w3schools.com/cssref/pr_border-right_style.php) |
 | `B` | `border-right-width` | Sets the width of the right border | [Learn More](https://www.w3schools.com/cssref/pr_border-right_width.php) |
 | `B` | `border-spacing` | Sets the distance between the borders of adjacent cells | [Learn More](https://www.w3schools.com/cssref/pr_border-spacing.php) |
-| `B` | `border-start-end-radius` | Sets the radius of the corner between the block-start and the inline-end      sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-start-end-radius.php) |
-| `B` | `border-start-start-radius` | Sets the radius of the corner between the block-start and the inline-start      sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-start-start-radius.php) |
+| `B` | `border-start-end-radius` | Sets the radius of the corner between the block-start and the inline-end    sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-start-end-radius.php) |
+| `B` | `border-start-start-radius` | Sets the radius of the corner between the block-start and the inline-start    sides of the element | [Learn More](https://www.w3schools.com/cssref/css_pr_border-start-start-radius.php) |
 | `B` | `border-style` | Sets the style of the four borders | [Learn More](https://www.w3schools.com/cssref/pr_border-style.php) |
-| `B` | `border-top` | A shorthand property for border-top-width, border-top-style and     border-top-color | [Learn More](https://www.w3schools.com/cssref/pr_border-top.php) |
+| `B` | `border-top` | A shorthand property for border-top-width, border-top-style and   border-top-color | [Learn More](https://www.w3schools.com/cssref/pr_border-top.php) |
 | `B` | `border-top-color` | Sets the color of the top border | [Learn More](https://www.w3schools.com/cssref/pr_border-top_color.php) |
 | `B` | `border-top-left-radius` | Defines the radius of the border of the top-left corner | [Learn More](https://www.w3schools.com/cssref/css3_pr_border-top-left-radius.php) |
 | `B` | `border-top-right-radius` | Defines the radius of the border of the top-right corner | [Learn More](https://www.w3schools.com/cssref/css3_pr_border-top-right-radius.php) |
@@ -98,20 +98,20 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `B` | `border-top-width` | Sets the width of the top border | [Learn More](https://www.w3schools.com/cssref/pr_border-top_width.php) |
 | `B` | `border-width` | Sets the width of the four borders | [Learn More](https://www.w3schools.com/cssref/pr_border-width.php) |
 | `B` | `bottom` | Sets the elements position, from the bottom of its parent element | [Learn More](https://www.w3schools.com/cssref/pr_pos_bottom.php) |
-| `B` | `box-decoration-break` | Sets the behavior of the background and border of an element at page-break, or, for  in-line elements, at line-break. | [Learn More](https://www.w3schools.com/cssref/css3_pr_box-decoration-break.php) |
+| `B` | `box-decoration-break` | Sets the behavior of the background and border of an element at page-break, or, for in-line elements, at line-break. | [Learn More](https://www.w3schools.com/cssref/css3_pr_box-decoration-break.php) |
 | `B` | `box-reflect` | The box-reflect property is used to create a reflection of an element. | [Learn More](https://www.w3schools.com/cssref/css_pr_box-reflect.php) |
 | `B` | `box-shadow` | Attaches one or more shadows to an element | [Learn More](https://www.w3schools.com/cssref/css3_pr_box-shadow.php) |
-| `B` | `box-sizing` | Defines how the width and height of an element are calculated: should      they include padding and borders, or not | [Learn More](https://www.w3schools.com/cssref/css3_pr_box-sizing.php) |
-| `B` | `break-after` | Specifies whether or not a page-, column-, or region-break should occur      after the specified element | [Learn More](https://www.w3schools.com/cssref/pr_break-after.php) |
-| `B` | `break-before` | Specifies whether or not a page-, column-, or region-break should occur      before the specified element | [Learn More](https://www.w3schools.com/cssref/pr_break-before.php) |
-| `B` | `break-inside` | Specifies whether or not a page-, column-, or region-break should occur      inside the specified element | [Learn More](https://www.w3schools.com/cssref/pr_break-inside.php) |
+| `B` | `box-sizing` | Defines how the width and height of an element are calculated: should    they include padding and borders, or not | [Learn More](https://www.w3schools.com/cssref/css3_pr_box-sizing.php) |
+| `B` | `break-after` | Specifies whether or not a page-, column-, or region-break should occur    after the specified element | [Learn More](https://www.w3schools.com/cssref/pr_break-after.php) |
+| `B` | `break-before` | Specifies whether or not a page-, column-, or region-break should occur    before the specified element | [Learn More](https://www.w3schools.com/cssref/pr_break-before.php) |
+| `B` | `break-inside` | Specifies whether or not a page-, column-, or region-break should occur    inside the specified element | [Learn More](https://www.w3schools.com/cssref/pr_break-inside.php) |
 | `C` | `caption-side` | Specifies the placement of a table caption | [Learn More](https://www.w3schools.com/cssref/pr_tab_caption-side.php) |
-| `C` | `caret-color` | Specifies the color of the cursor (caret) in inputs, textareas, or any      element that is editable | [Learn More](https://www.w3schools.com/cssref/css3_pr_caret-color.php) |
-| `C` | `clear` | Specifies what should happen with the element that is next to a floating      element | [Learn More](https://www.w3schools.com/cssref/pr_class_clear.php) |
+| `C` | `caret-color` | Specifies the color of the cursor (caret) in inputs, textareas, or any    element that is editable | [Learn More](https://www.w3schools.com/cssref/css3_pr_caret-color.php) |
+| `C` | `clear` | Specifies what should happen with the element that is next to a floating    element | [Learn More](https://www.w3schools.com/cssref/pr_class_clear.php) |
 | `C` | `clip` | Deprecated in favor of clip-path. Clips an absolutely positioned element | [Learn More](https://www.w3schools.com/cssref/pr_pos_clip.php) |
 | `C` | `clip-path` | Clips an element to a basic shape or to an SVG source | [Learn More](https://www.w3schools.com/cssref/css3_pr_clip-path.php) |
 | `C` | `color` | Sets the color of text | [Learn More](https://www.w3schools.com/cssref/pr_text_color.php) |
-| `C` | `color-scheme` | Indicates which operating system color scheme an element should render      with | [Learn More](https://www.w3schools.com/cssref/css3_pr_color-scheme.php) |
+| `C` | `color-scheme` | Indicates which operating system color scheme an element should render    with | [Learn More](https://www.w3schools.com/cssref/css3_pr_color-scheme.php) |
 | `C` | `column-count` | Specifies the number of columns an element should be divided into | [Learn More](https://www.w3schools.com/cssref/css3_pr_column-count.php) |
 | `C` | `column-fill` | Specifies how to fill columns, balanced or not | [Learn More](https://www.w3schools.com/cssref/css3_pr_column-fill.php) |
 | `C` | `column-gap` | Specifies the gap between the columns | [Learn More](https://www.w3schools.com/cssref/css3_pr_column-gap.php) |
@@ -128,33 +128,33 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `C` | `counter-set` | Creates or sets one or more CSS counters | [Learn More](https://www.w3schools.com/cssref/pr_gen_counter-set.php) |
 | `C` | `cursor` | Specifies the mouse cursor to be displayed when pointing over an element | [Learn More](https://www.w3schools.com/cssref/pr_class_cursor.php) |
 | `C` | `@charset` | Specifies the character encoding used in the style sheet | [Learn More](https://www.w3schools.com/cssref/atrule_charset.php) |
-| `C` | `@container` | Define styles for elements in container, depending on the container's      size or style | [Learn More](https://www.w3schools.com/cssref/atrule_container.php) |
+| `C` | `@container` | Define styles for elements in container, depending on the container's    size or style | [Learn More](https://www.w3schools.com/cssref/atrule_container.php) |
 | `C` | `@counter-style` | Lets you define your own counter styles | [Learn More](https://www.w3schools.com/cssref/atrule_counter-style.php) |
 | `F` | `@font-face` | Specifies a custom font to use to display text | [Learn More](https://www.w3schools.com/cssref/atrule_font-face.php) |
 | `F` | `@font-palette-values` | Allows you to customize the default values of a font-palette | [Learn More](https://www.w3schools.com/cssref/atrule_font-palette-values.php) |
 | `I` | `@import` | Allows you to import a style sheet into another style sheet | [Learn More](https://www.w3schools.com/cssref/atrule_import.php) |
-| `K` | `@keyframes` | Controls the steps in an animation by defining styles for points along      the animation sequence | [Learn More](https://www.w3schools.com/cssref/atrule_keyframes.php) |
+| `K` | `@keyframes` | Controls the steps in an animation by defining styles for points along    the animation sequence | [Learn More](https://www.w3schools.com/cssref/atrule_keyframes.php) |
 | `L` | `@layer` | Controls how the CSS cascade layers evaluates the order of styles | [Learn More](https://www.w3schools.com/cssref/atrule_layer.php) |
 | `M` | `@media` | Sets the style rules for different media types/devices/sizes | [Learn More](https://www.w3schools.com/cssref/atrule_media.php) |
 | `N` | `@namespace` | Defines an XML namespace to be used in the style sheet | [Learn More](https://www.w3schools.com/cssref/atrule_namespace.php) |
 | `P` | `@page` | Customizes the dimension, orientation, and margins of printed pages | [Learn More](https://www.w3schools.com/cssref/atrule_page.php) |
 | `P` | `@property` | Defines custom CSS properties directly in the stylesheet without having to run any JavaScript | [Learn More](https://www.w3schools.com/cssref/atrule_property.php) |
-| `S` | `@scope` | Allows you to select elements in specific DOM subtrees and target      elements precisely without writing overly-specific selectors | [Learn More](https://www.w3schools.com/cssref/atrule_scope.php) |
-| `S` | `@starting-style` | Defines an element's starting styles before the element gets its first      style update | [Learn More](https://www.w3schools.com/cssref/atrule_starting-style.php) |
+| `S` | `@scope` | Allows you to select elements in specific DOM subtrees and target    elements precisely without writing overly-specific selectors | [Learn More](https://www.w3schools.com/cssref/atrule_scope.php) |
+| `S` | `@starting-style` | Defines an element's starting styles before the element gets its first    style update | [Learn More](https://www.w3schools.com/cssref/atrule_starting-style.php) |
 | `S` | `@supports` | Used to test whether a browser supports a CSS feature | [Learn More](https://www.w3schools.com/cssref/atrule_supports.php) |
 | `D` | `direction` | Specifies the text direction/writing direction | [Learn More](https://www.w3schools.com/cssref/pr_text_direction.php) |
 | `D` | `display` | Specifies how a certain HTML element should be displayed | [Learn More](https://www.w3schools.com/cssref/pr_class_display.php) |
 | `E` | `empty-cells` | Specifies whether or not to display borders and background on empty cells in a table | [Learn More](https://www.w3schools.com/cssref/pr_tab_empty-cells.php) |
 | `F` | `filter` | Defines effects (e.g. blurring or color shifting) on an element before the element is displayed | [Learn More](https://www.w3schools.com/cssref/css3_pr_filter.php) |
-| `F` | `flex` | A shorthand property for the flex-grow, flex-shrink, and the      flex-basis      properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex.php) |
+| `F` | `flex` | A shorthand property for the flex-grow, flex-shrink, and the    flex-basis    properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex.php) |
 | `F` | `flex-basis` | Specifies the initial length of a flexible item | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex-basis.php) |
 | `F` | `flex-direction` | Specifies the direction of the flexible items | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex-direction.php) |
 | `F` | `flex-flow` | A shorthand property for the flex-direction and the flex-wrap properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex-flow.php) |
 | `F` | `flex-grow` | Specifies how much the item will grow relative to the rest | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex-grow.php) |
 | `F` | `flex-shrink` | Specifies how the item will shrink relative to the rest | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex-shrink.php) |
 | `F` | `flex-wrap` | Specifies whether the flexible items should wrap or not | [Learn More](https://www.w3schools.com/cssref/css3_pr_flex-wrap.php) |
-| `F` | `float` | Specifies whether an element should float to the left, right, or not at      all | [Learn More](https://www.w3schools.com/cssref/pr_class_float.php) |
-| `F` | `font` | A shorthand property for the font-style, font-variant, font-weight,      font-size/line-height, and the font-family properties | [Learn More](https://www.w3schools.com/cssref/pr_font_font.php) |
+| `F` | `float` | Specifies whether an element should float to the left, right, or not at    all | [Learn More](https://www.w3schools.com/cssref/pr_class_float.php) |
+| `F` | `font` | A shorthand property for the font-style, font-variant, font-weight,    font-size/line-height, and the font-family properties | [Learn More](https://www.w3schools.com/cssref/pr_font_font.php) |
 | `F` | `font-family` | Specifies the font family for text | [Learn More](https://www.w3schools.com/cssref/pr_font_font-family.php) |
 | `F` | `font-feature-settings` | Allows control over advanced typographic features in OpenType fonts | [Learn More](https://www.w3schools.com/cssref/css3_pr_font-feature-settings.php) |
 | `F` | `font-kerning` | Controls the usage of the kerning information (how letters are spaced) | [Learn More](https://www.w3schools.com/cssref/css3_pr_font-kerning.php) |
@@ -166,7 +166,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `F` | `font-variant-caps` | Controls the usage of alternate glyphs for capital letters | [Learn More](https://www.w3schools.com/cssref/css3_pr_font-variant-caps.php) |
 | `F` | `font-weight` | Specifies the weight of a font | [Learn More](https://www.w3schools.com/cssref/pr_font_weight.php) |
 | `G` | `gap` | A shorthand property for the row-gap and the column-gap properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_gap.php) |
-| `G` | `grid` | A shorthand property for the grid-template-rows,      grid-template-columns, grid-template-areas, grid-auto-rows,      grid-auto-columns, and the grid-auto-flow properties | [Learn More](https://www.w3schools.com/cssref/pr_grid.php) |
+| `G` | `grid` | A shorthand property for the grid-template-rows,    grid-template-columns, grid-template-areas, grid-auto-rows,    grid-auto-columns, and the grid-auto-flow properties | [Learn More](https://www.w3schools.com/cssref/pr_grid.php) |
 | `G` | `grid-area` | Either specifies a name for the grid item, or this property is a shorthand property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end properties | [Learn More](https://www.w3schools.com/cssref/pr_grid-area.php) |
 | `G` | `grid-auto-columns` | Specifies a default column size | [Learn More](https://www.w3schools.com/cssref/pr_grid-auto-columns.php) |
 | `G` | `grid-auto-flow` | Specifies how auto-placed items are inserted in the grid | [Learn More](https://www.w3schools.com/cssref/pr_grid-auto-flow.php) |
@@ -177,7 +177,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `G` | `grid-row` | A shorthand property for the grid-row-start and the grid-row-end properties | [Learn More](https://www.w3schools.com/cssref/pr_grid-row.php) |
 | `G` | `grid-row-end` | Specifies where to end the grid item | [Learn More](https://www.w3schools.com/cssref/pr_grid-row-end.php) |
 | `G` | `grid-row-start` | Specifies where to start the grid item | [Learn More](https://www.w3schools.com/cssref/pr_grid-row-start.php) |
-| `G` | `grid-template` | A shorthand property for the grid-template-rows, grid-template-columns      and grid-areas properties | [Learn More](https://www.w3schools.com/cssref/pr_grid-template.php) |
+| `G` | `grid-template` | A shorthand property for the grid-template-rows, grid-template-columns    and grid-areas properties | [Learn More](https://www.w3schools.com/cssref/pr_grid-template.php) |
 | `G` | `grid-template-areas` | Specifies how to display columns and rows, using named grid items | [Learn More](https://www.w3schools.com/cssref/pr_grid-template-areas.php) |
 | `G` | `grid-template-columns` | Specifies the size of the columns, and how many columns in a grid layout | [Learn More](https://www.w3schools.com/cssref/pr_grid-template-columns.php) |
 | `G` | `grid-template-rows` | Specifies the size of the rows in a grid layout | [Learn More](https://www.w3schools.com/cssref/pr_grid-template-rows.php) |
@@ -186,7 +186,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `H` | `hyphens` | Sets how to split words to improve the layout of text | [Learn More](https://www.w3schools.com/cssref/css3_pr_hyphens.php) |
 | `H` | `hypenate-character` | Sets the character used at the end of line, before a hyphenation break | [Learn More](https://www.w3schools.com/cssref/css3_pr_hyphenate-character.php) |
 | `I` | `image-rendering` | Specifies the type of algorithm to use for image scaling | [Learn More](https://www.w3schools.com/cssref/css3_pr_image-rendering.php) |
-| `I` | `initial-letter` | Specifies the size of the initial-letter and optionally the number of      lines the initial letter should sink (down in the text) | [Learn More](https://www.w3schools.com/cssref/css3_pr_initial-letter.php) |
+| `I` | `initial-letter` | Specifies the size of the initial-letter and optionally the number of    lines the initial letter should sink (down in the text) | [Learn More](https://www.w3schools.com/cssref/css3_pr_initial-letter.php) |
 | `I` | `inline-size` | Specifies the size of an element in the inline direction | [Learn More](https://www.w3schools.com/cssref/css_pr_inline-size.php) |
 | `I` | `inset` | Specifies the distance between an element and the parent element | [Learn More](https://www.w3schools.com/cssref/css_pr_inset.php) |
 | `I` | `inset-block` | Specifies the distance between an element and the parent element in the block direction | [Learn More](https://www.w3schools.com/cssref/css_pr_inset-block.php) |
@@ -217,20 +217,20 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `M` | `margin-left` | Sets the left margin of an element | [Learn More](https://www.w3schools.com/cssref/pr_margin-left.php) |
 | `M` | `margin-right` | Sets the right margin of an element | [Learn More](https://www.w3schools.com/cssref/pr_margin-right.php) |
 | `M` | `margin-top` | Sets the top margin of an element | [Learn More](https://www.w3schools.com/cssref/pr_margin-top.php) |
-| `M` | `marker` | Points to a marker that will be drawn on all vertices of an element's      path (the first, middle, and last) | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker.php) |
-| `M` | `marker-end` | Points to a marker that will be drawn on the last vertex of an element's      path | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker-end.php) |
-| `M` | `marker-mid` | Points to a marker that will be drawn on all the middle vertices of an      element's path | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker-mid.php) |
-| `M` | `marker-start` | Points to a marker that will be drawn on the first vertex of an      element's path | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker-start.php) |
-| `M` | `mask` | A shorthand property for mask-image, mask-mode,      mask-repeat, mask-position, mask-clip, mask-origin,     mask-size and mask-composite | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask.php) |
+| `M` | `marker` | Points to a marker that will be drawn on all vertices of an element's    path (the first, middle, and last) | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker.php) |
+| `M` | `marker-end` | Points to a marker that will be drawn on the last vertex of an element's    path | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker-end.php) |
+| `M` | `marker-mid` | Points to a marker that will be drawn on all the middle vertices of an    element's path | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker-mid.php) |
+| `M` | `marker-start` | Points to a marker that will be drawn on the first vertex of an    element's path | [Learn More](https://www.w3schools.com/cssref/css3_pr_marker-start.php) |
+| `M` | `mask` | A shorthand property for mask-image, mask-mode,    mask-repeat, mask-position, mask-clip, mask-origin,   mask-size and mask-composite | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask.php) |
 | `M` | `mask-clip` | Specifies which area is affected by a mask image | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-clip.php) |
-| `M` | `mask-composite` | Specifies a compositing operation used on the current mask layer with      the mask layers below it | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-composite.php) |
+| `M` | `mask-composite` | Specifies a compositing operation used on the current mask layer with    the mask layers below it | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-composite.php) |
 | `M` | `mask-image` | Specifies an image to be used as a mask layer for an element | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-image.php) |
-| `M` | `mask-mode` | Specifies whether the mask layer image is treated as a luminance mask or      as an alpha mask | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-mode.php) |
+| `M` | `mask-mode` | Specifies whether the mask layer image is treated as a luminance mask or    as an alpha mask | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-mode.php) |
 | `M` | `mask-origin` | Specifies the origin position (the mask position area) of a mask layer image | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-origin.php) |
-| `M` | `mask-position` | Sets the starting position of a mask layer image (relative to the      mask position area) | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-position.php) |
+| `M` | `mask-position` | Sets the starting position of a mask layer image (relative to the    mask position area) | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-position.php) |
 | `M` | `mask-repeat` | Specifies how the mask layer image is repeated | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-repeat.php) |
 | `M` | `mask-size` | Specifies the size of a mask layer image | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-size.php) |
-| `M` | `mask-type` | Specifies whether an SVG &lt;mask&gt; element is treated as a luminance      mask or as an alpha mask | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-type.php) |
+| `M` | `mask-type` | Specifies whether an SVG &lt;mask&gt; element is treated as a luminance    mask or as an alpha mask | [Learn More](https://www.w3schools.com/cssref/css3_pr_mask-type.php) |
 | `M` | `max-height` | Sets the maximum height of an element | [Learn More](https://www.w3schools.com/cssref/pr_dim_max-height.php) |
 | `M` | `max-width` | Sets the maximum width of an element | [Learn More](https://www.w3schools.com/cssref/pr_dim_max-width.php) |
 | `M` | `max-block-size` | Sets the maximum size of an element in the block direction | [Learn More](https://www.w3schools.com/cssref/css_pr_max-block-size.php) |
@@ -242,7 +242,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `M` | `mix-blend-mode` | Specifies how an element's content should blend with its direct parent background | [Learn More](https://www.w3schools.com/cssref/pr_mix-blend-mode.php) |
 | `O` | `object-fit` | Specifies how the contents of a replaced element should be fitted to the box established by its used height and width | [Learn More](https://www.w3schools.com/cssref/css3_pr_object-fit.php) |
 | `O` | `object-position` | Specifies the alignment of the replaced element inside its box | [Learn More](https://www.w3schools.com/cssref/css3_pr_object-position.php) |
-| `O` | `offset` | A shorthand property for the offset-anchor, offset-distance,     offset-path, offset-position, and the offset-rotate      properties | [Learn More](https://www.w3schools.com/cssref/css_pr_offset.php) |
+| `O` | `offset` | A shorthand property for the offset-anchor, offset-distance,   offset-path, offset-position, and the offset-rotate    properties | [Learn More](https://www.w3schools.com/cssref/css_pr_offset.php) |
 | `O` | `offset-anchor` | Specifies a point on an element that is fixed to the path it is animated along | [Learn More](https://www.w3schools.com/cssref/css_pr_offset-anchor.php) |
 | `O` | `offset-distance` | Specifies the position along a path where an animated element is placed | [Learn More](https://www.w3schools.com/cssref/css_pr_offset-distance.php) |
 | `O` | `offset-path` | Specifies the path an element is animated along | [Learn More](https://www.w3schools.com/cssref/css_pr_offset-path.php) |
@@ -250,15 +250,15 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `O` | `offset-rotate` | Specifies rotation of an element as it is animated along a path | [Learn More](https://www.w3schools.com/cssref/css_pr_offset-rotate.php) |
 | `O` | `opacity` | Sets the opacity level for an element | [Learn More](https://www.w3schools.com/cssref/css3_pr_opacity.php) |
 | `O` | `order` | Sets the order of the flexible item, relative to the rest | [Learn More](https://www.w3schools.com/cssref/css3_pr_order.php) |
-| `O` | `orphans` | Sets the minimum number of lines that must be left at the bottom of a      page or column | [Learn More](https://www.w3schools.com/cssref/css3_pr_orphans.php) |
-| `O` | `outline` | A shorthand property for the outline-width, outline-style, and      the outline-color properties | [Learn More](https://www.w3schools.com/cssref/pr_outline.php) |
+| `O` | `orphans` | Sets the minimum number of lines that must be left at the bottom of a    page or column | [Learn More](https://www.w3schools.com/cssref/css3_pr_orphans.php) |
+| `O` | `outline` | A shorthand property for the outline-width, outline-style, and    the outline-color properties | [Learn More](https://www.w3schools.com/cssref/pr_outline.php) |
 | `O` | `outline-color` | Sets the color of an outline | [Learn More](https://www.w3schools.com/cssref/pr_outline-color.php) |
 | `O` | `outline-offset` | Offsets an outline, and draws it beyond the border edge | [Learn More](https://www.w3schools.com/cssref/css3_pr_outline-offset.php) |
 | `O` | `outline-style` | Sets the style of an outline | [Learn More](https://www.w3schools.com/cssref/pr_outline-style.php) |
 | `O` | `outline-width` | Sets the width of an outline | [Learn More](https://www.w3schools.com/cssref/pr_outline-width.php) |
 | `O` | `overflow` | Specifies what happens if content overflows an element's box | [Learn More](https://www.w3schools.com/cssref/pr_pos_overflow.php) |
 | `O` | `overflow-anchor` | Specifies whether or not content in viewable area in a scrollable contianer should be pushed down when new content is loaded above | [Learn More](https://www.w3schools.com/cssref/css_pr_overflow-anchor.php) |
-| `O` | `overflow-wrap` | Specifies whether or not the browser can break lines with long words, if      they overflow the container | [Learn More](https://www.w3schools.com/cssref/css3_pr_overflow-wrap.php) |
+| `O` | `overflow-wrap` | Specifies whether or not the browser can break lines with long words, if    they overflow the container | [Learn More](https://www.w3schools.com/cssref/css3_pr_overflow-wrap.php) |
 | `O` | `overflow-x` | Specifies whether or not to clip the left/right edges of the content, if it overflows the element's content area | [Learn More](https://www.w3schools.com/cssref/css3_pr_overflow-x.php) |
 | `O` | `overflow-y` | Specifies whether or not to clip the top/bottom edges of the content, if it overflows the element's content area | [Learn More](https://www.w3schools.com/cssref/css3_pr_overflow-y.php) |
 | `O` | `overscroll-behavior` | Specifies whether to have scroll chaining or overscroll affordance in x- and y-directions | [Learn More](https://www.w3schools.com/cssref/css_pr_overscroll-behavior.php) |
@@ -331,7 +331,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `T` | `text-decoration-line` | Specifies the type of line in a text-decoration | [Learn More](https://www.w3schools.com/cssref/css3_pr_text-decoration-line.php) |
 | `T` | `text-decoration-style` | Specifies the style of the line in a text decoration | [Learn More](https://www.w3schools.com/cssref/css3_pr_text-decoration-style.php) |
 | `T` | `text-decoration-thickness` | Specifies the thickness of the decoration line | [Learn More](https://www.w3schools.com/cssref/pr_text_text-decoration-thickness.php) |
-| `T` | `text-emphasis` | A shorthand property for the text-emphasis-style and      text-emphasis-color properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_text-emphasis.php) |
+| `T` | `text-emphasis` | A shorthand property for the text-emphasis-style and    text-emphasis-color properties | [Learn More](https://www.w3schools.com/cssref/css3_pr_text-emphasis.php) |
 | `T` | `text-emphasis-color` | Specifies the color of emphasis marks | [Learn More](https://www.w3schools.com/cssref/css3_pr_text-emphasis-color.php) |
 | `T` | `text-emphasis-position` | Specifies the position of emphasis marks | [Learn More](https://www.w3schools.com/cssref/css3_pr_text-emphasis-position.php) |
 | `T` | `text-emphasis-style` | Specifies the style of emphasis marks | [Learn More](https://www.w3schools.com/cssref/css3_pr_text-emphasis-style.php) |
@@ -358,7 +358,7 @@ Welcome to the **CSS Properties** repository! This project contains a comprehens
 | `V` | `vertical-align` | Sets the vertical alignment of an element | [Learn More](https://www.w3schools.com/cssref/pr_pos_vertical-align.php) |
 | `V` | `visibility` | Specifies whether or not an element is visible | [Learn More](https://www.w3schools.com/cssref/pr_class_visibility.php) |
 | `W` | `white-space` | Specifies how white-space inside an element is handled | [Learn More](https://www.w3schools.com/cssref/pr_text_white-space.php) |
-| `W` | `widows` | Sets the minimum number of lines that must be left at the top of a page      or column | [Learn More](https://www.w3schools.com/cssref/css3_pr_widows.php) |
+| `W` | `widows` | Sets the minimum number of lines that must be left at the top of a page    or column | [Learn More](https://www.w3schools.com/cssref/css3_pr_widows.php) |
 | `W` | `width` | Sets the width of an element | [Learn More](https://www.w3schools.com/cssref/pr_dim_width.php) |
 | `W` | `word-break` | Specifies how words should break when reaching the end of a line | [Learn More](https://www.w3schools.com/cssref/css3_pr_word-break.php) |
 | `W` | `word-spacing` | Increases or decreases the space between words in a text | [Learn More](https://www.w3schools.com/cssref/pr_text_word-spacing.php) |

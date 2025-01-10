@@ -19,6 +19,7 @@ def sanitize_text(text, isText):
             text = text.replace('<', '&lt;')
         if '>' in text:
             text = text.replace('>', '&gt;')
+        text = text.replace("\n\t", " ").replace("  ", " ")
     return text.replace('|', '\\|').replace('\n', ' ')
 
 

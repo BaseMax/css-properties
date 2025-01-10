@@ -1,9 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-from github import create_github_issue
-
-
 repo = "organization/repository"
 url = "https://www.w3schools.com/cssref/index.php"
 
@@ -38,24 +35,5 @@ if response.status_code == 200:
                                 "link": link,
                                 "brief": brief
                             })
-
-        started = False
-
-        for item in result:
-            title = f"Implement support for `{item['name']}` tag (CSS)"
-            body = (
-                f"### Description\n\n"
-                f"Category: `{item['category']}`\n\n"
-                f"Tag: `{item['name']}`\n\n"
-                f"**Brief:** {item['brief']}\n\n"
-                f"[Learn more about `{item['name']}`]({item['link']})\n\n"
-                f"Implement this tag in the Salam programming language for generating equivalent CSS."
-            )
-            labels = ["css", "enhancement", "good first issue", "yaml"]
-            
-            create_github_issue(repo, title, body, labels)
-            # break
-            print(f"Issue created for {item['name']}")
-
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
